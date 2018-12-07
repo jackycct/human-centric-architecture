@@ -1,4 +1,4 @@
-<!-- .slide: data-background="images/network-background.jpg" class="background" -->
+<!-- .slide: data-background="https://cdn.wallpapersafari.com/71/97/Y54gpS.jpg" class="background" -->
 
 <h2>Human Centric Architecture</h2>
 <p>
@@ -12,7 +12,7 @@
 <p>
 
 [NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background" -->
+<!-- .slide: data-background="https://cdn.wallpapersafari.com/71/97/Y54gpS.jpg" class="background" -->
 
 <h2>Industrial Machine Learning</h2>
 
