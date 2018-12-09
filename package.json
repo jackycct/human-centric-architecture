@@ -1,8 +1,8 @@
 {
-  "name": "reveal.js",
-  "version": "3.7.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
+  "name": "Human Centric Architecture",
+  "version": "1.0",
+  "description": "Presentation for Human Centric Architecture",
+  "homepage": "https://jackycct.github.io/human-centric-architecture/#/",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -11,13 +11,13 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Jacky",
+    "email": "jackycct@owasp.org",
+    "web": "http://www.linkedin.com/in/jackyarch"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/jackycct/reveal.js.git"
   },
   "engines": {
     "node": ">=4.0.0"
