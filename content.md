@@ -283,7 +283,7 @@ public Customer findCustomersWithSavingAccountMoreThan(
 
 ### Slides
 
-https://jackycct.github.io/human-centric-architecture/#/
+https://goo.gl/ex1u87
 
 <img src="images/slides.png" width="300"/>
 
