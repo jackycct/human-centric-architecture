@@ -1,4 +1,4 @@
-## Human Centric Architecture {data-background="http://www.lsmuni.lt/media/dynamic/img/2647/9592_original_0.jpg"}
+## Human Centric Architecture {data-background="http://fearlessdollar.com/wp-content/uploads/2013/08/Fearless-Background-1024-x-768-Lighter-Gray1.jpg"}
 
 <p>
   <br />
