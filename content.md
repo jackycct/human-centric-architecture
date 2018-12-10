@@ -1,4 +1,4 @@
-## Full size image background {data-background="http://www.lsmuni.lt/media/dynamic/img/2647/9592_original_0.jpg" data-background-opacity="1"}
+## Human Centric Architecture {data-background="http://www.lsmuni.lt/media/dynamic/img/2647/9592_original_0.jpg" data-background-opacity="1"}
 
 <h2>Human Centric Architecture</h2>
 <p>
@@ -53,9 +53,7 @@
 
 [NEXT]
 
-## Full size image background {data-background="https://www.publickey1.jp/blog/11/agileconf1102.jpg" data-background-opacity="0.2"}
-
-## Architecture is
+## Architecture is {data-background="https://www.publickey1.jp/blog/11/agileconf1102.jpg" data-background-opacity="0.2"}
 
 > Shared understanding of the important stuff about a system
 
