@@ -1,6 +1,5 @@
 ## Human Centric Architecture {data-background="http://www.lsmuni.lt/media/dynamic/img/2647/9592_original_0.jpg" data-background-opacity="1"}
 
-<h2>Human Centric Architecture</h2>
 <p>
   <br />
   <br />
@@ -49,7 +48,7 @@
     
 [NEXT]
 
-## What is Architecture
+## What is Architecture ?
 
 [NEXT]
 
