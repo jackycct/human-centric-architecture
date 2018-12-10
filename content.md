@@ -1,4 +1,4 @@
-## Human Centric Architecture {data-background="http://www.lsmuni.lt/media/dynamic/img/2647/9592_original_0.jpg" data-background-opacity="1"}
+## Human Centric Architecture {data-background="http://www.lsmuni.lt/media/dynamic/img/2647/9592_original_0.jpg"}
 
 <p>
   <br />
