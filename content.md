@@ -1,3 +1,5 @@
+## Full size image background {data-background="http://www.lsmuni.lt/media/dynamic/img/2647/9592_original_0.jpg" data-background-opacity="1"}
+
 <h2>Human Centric Architecture</h2>
 <p>
   <br />
@@ -50,6 +52,8 @@
 ## What is Architecture
 
 [NEXT]
+
+## Full size image background {data-background="https://www.publickey1.jp/blog/11/agileconf1102.jpg" data-background-opacity="0.2"}
 
 ## Architecture is
 
