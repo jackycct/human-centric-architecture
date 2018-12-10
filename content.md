@@ -3,7 +3,7 @@
 <p>
   <br />
   <br />
-    Jacky Chan X
+    Jacky Chan
   <br/><br/>
     <a href="http://linkedin.com/in/jackyarch">in/jackyarch</a><br/>
   <br />
