@@ -123,6 +123,138 @@
 						</ul>
 					</section>
 				</section>
+				<section data-menu-title="Consistent">
+					<section data-menu-title="Consistent">
+						<h2>Consistent</h2>
+					</section>
+					<section data-menu-title="Bounded Context">
+						<h2>Bounded Context</h2>
+						<img src="images/DDD.png" width="600"/>
+						<ul class="smaller-text">
+							<li>A entity is well defined in a bounded context</li>
+							<li>Person in "Sales" context is referring to a Sales Person</li>
+						</ul>
+					</section>
+					<section data-menu-title="Ubiquitous Language">
+						<h2>Ubiquitous Language</h2>
+						<img src="images/ubiquitous_language.png" width="400"/>
+						<ul class="smaller-text">
+							<li>A language used by all team members to connect all the activities of the team</li>
+						</ul>
+					</section>
+					<section data-menu-title="Ubiquitous Language">
+						<h2>Ubiquitous Language</h2>
+						<img src="images/ubiquitous_language_detailed.jpg" width="400"/>
+						The same terminology is also used in
+						<ul class="smaller-text">
+							<li>Jira Stories</li>
+							<li>Application Code</li>
+							<li>Table and Column</li>
+							<li>Testing Cases</li>
+							<li>RESTful API Definition</li>
+						</ul>
+					</section>
+				</section>
+				<section data-menu-title="Intuitive">
+					<section data-menu-title="Clean Architecture">
+						<h6>Tradtional vs Clean Architecture</h6>
+						<img src="images/traditional_architecture.png" width="400"/>
+						<img src="images/clean_architecture.png" width="400"/>
+					</section>
+					<section data-menu-title="Intuitive REST API">
+						<h2>Intuitive REST API</h2>
+						<ul class="smaller-text">
+							<li>Industry Convention</li>
+							<li>Documentation with Examples</li>
+						</ul>
+					</section>
+					<section data-menu-title="Industry Convention">
+						Use <b>Plural Nouns</b> to represent resources
+						<ul class="smaller-text">
+							<li>/customers/2345</li>
+							<li>/accounts/A304935</li>
+						</ul>
+					</section>
+					<section data-menu-title="Industry Convention">
+						<h2>Use proper HTTP <b>verb</b></h2>
+						<table>
+							<tr>
+								<td>Read</td>
+								<td>GET /customers/2345<br/>GET /customers?size=20&page=3</td>
+							</tr>
+							<tr>
+								<td>Create</td>
+								<td>POST /customers</td>
+							</tr>
+							<tr>
+								<td>Replace Whole</td>
+								<td>PUT /customers</td>
+							</tr>
+							<tr>
+								<td>Modify partial</td>
+								<td>PATCH /customers</td>
+							</tr>
+							<tr>
+								<td>Delete</td>
+								<td>Delete /customers</td>
+							</tr>
+						</table>
+					</section>
+					<section data-menu-title="Documentation with Example">
+						<h2>Documentation with Example</h2>
+						<img src="images/swagger.png" width="300"/>
+						<img src="images/swagger_example.png" width="300"/>
+						<ul>
+							<li>Try it out and learn</li>
+							<li>Pre-filled examples</li>
+						</ul>
+					</section>
+					<section data-menu-title="Functional Testing">
+						<h2>Functional Testing</h2>
+						Gherkin allows us to articulate test cases in plain english using
+						<ul>
+							<li>Given</li>
+							<li>When</li>
+							<li>Then</li>
+						</ul>
+					</section>
+					<section data-menu-title="Typical Functional Testing">
+						<h2>Typical Functional Testing</h2>
+						Scenario: Login with bad password
+						<ul>
+							<li>Given launch URL https://app/login</li>
+							<li>When http get parameter user id equals to 'Jacky'</li>
+							<li>And http get parameter password equals to *****</li>
+							<li>Then error page is returned</li>
+							<li>And return to login page https://app/login</li>
+						</ul>
+					</section>
+					<section data-menu-title="A Better Functional Testing">
+						<h2>A better approach</h2>
+						Scenario: Login with bad password
+						<ul>
+							<li>Given launch app using browser Chrome</li>
+							<li>When I type user name 'Jacky'</li>
+							<li>And I type an incorrect password</li>
+							<li>Then I see error message "Invalid username/password"</li>
+							<li>And I stay on the login page</li>
+						</ul>
+					</section>
+					<section data-menu-title="Self-descriptive code">
+						<h2>Self-Descriptive Code</h2>
+						<pre><code data-trim data-noescape>
+						/** 
+						 * Find customers who have more than a given amount in saving account
+						 * @param amount Amount in Saving Account
+						 */
+						public Customer findCustomer(BigDecimal amount);
+						</code></pre>
+						<br/>
+						<pre><code data-trim data-noescape>
+						public Customer findCustomersWithSavingAccountMoreThan(BigDecimal usdAmount);
+						</code></pre>
+					</section>
+				</section>
 			</div>
 		</div>
 
